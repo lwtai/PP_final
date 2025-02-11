@@ -1,5 +1,3 @@
-# Ignore all PNG files
 output.png
-
-# Ignore specific binary file without extension
 filter
+.DS_Store
